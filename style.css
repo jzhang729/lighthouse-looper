@@ -1,0 +1,15 @@
+p, img {
+  display: block;
+}
+
+#image-info {
+  padding: 10px;
+  margin: 10px;
+}
+
+.label {
+  display: inline;
+  font-weight: bold;
+  font-size: 12pt;
+  font-family: verdana;
+}
